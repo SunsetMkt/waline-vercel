@@ -6,3 +6,4 @@ module.exports = Application({
     // do what ever you want after comment saved
   },
 });
+think.app.proxyIpHeader = 'CF-Connecting-IP';
